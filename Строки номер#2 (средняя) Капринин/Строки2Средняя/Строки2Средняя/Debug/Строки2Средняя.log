@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Сергей\source\repos\Строки2Средняя\Строки2Средняя\Source.c(5,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\source\repos\Строки2Средняя\Строки2Средняя\Source.c(7,17): warning C4013: tolower: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Сергей\source\repos\Строки2Средняя\Строки2Средняя\Source.c(15,6): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  Строки2Средняя.vcxproj -> C:\Users\Сергей\source\repos\Строки2Средняя\Debug\Строки2Средняя.exe

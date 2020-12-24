@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Сергей\source\repos\Строки1Простая\Строки1Простая\Source.c(21,6): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  Строки1Простая.vcxproj -> C:\Users\Сергей\source\repos\Строки1Простая\Debug\Строки1Простая.exe
